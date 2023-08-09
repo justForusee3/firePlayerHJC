@@ -1,0 +1,26 @@
+
+body {
+    background-color: #000;
+    font: 15px Tahoma;
+    color: white;
+}
+#playOrPauseButton {
+    margin-left: 17.2%;
+}
+#seekBar {
+    padding:10px;
+    height: 6px;
+}
+#rewindButton {
+    opacity: 0.4;
+}
+#fastForwardButton {
+    opacity: 0.4;
+}
+#videoURLs {
+    margin-left: 26%;
+    width: 25%;
+}
+#logState {
+    margin-left: 59%;
+}
